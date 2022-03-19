@@ -13,12 +13,12 @@
   inputs.src-jestercookiemsgs-v1_0_1.repo  = "jestercookiemsgs";
   inputs.src-jestercookiemsgs-v1_0_1.type  = "github";
   
-  inputs."jesterwithplugins".owner = "nim-nix-pkgs";
-  inputs."jesterwithplugins".ref   = "master";
-  inputs."jesterwithplugins".repo  = "jesterwithplugins";
-  inputs."jesterwithplugins".type  = "github";
-  inputs."jesterwithplugins".inputs.nixpkgs.follows = "nixpkgs";
-  inputs."jesterwithplugins".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  #inputs."jesterwithplugins".owner = "nim-nix-pkgs";
+  #inputs."jesterwithplugins".ref   = "master";
+  #inputs."jesterwithplugins".repo  = "jesterwithplugins";
+  #inputs."jesterwithplugins".type  = "github";
+  #inputs."jesterwithplugins".inputs.nixpkgs.follows = "nixpkgs";
+  #inputs."jesterwithplugins".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
