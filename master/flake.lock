@@ -2,7 +2,6 @@
   "nodes": {
     "asynctools": {
       "inputs": {
-        "asynctools-master": "asynctools-master",
         "flakeNimbleLib": [
           "jesterwithplugins",
           "httpbeast",
@@ -11,47 +10,17 @@
         "nixpkgs": [
           "jesterwithplugins",
           "httpbeast",
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1648107274,
-        "narHash": "sha256-xSnzLrmTPiF62imiF7bQEGuUnTO+/NOwb4X5GhaUpmI=",
-        "owner": "nim-nix-pkgs",
-        "repo": "asynctools",
-        "rev": "8636de79d1c2f1e16fcf46c5cc9332e326d22980",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "asynctools",
-        "type": "github"
-      }
-    },
-    "asynctools-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "jesterwithplugins",
-          "httpbeast",
-          "asynctools",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "jesterwithplugins",
-          "httpbeast",
-          "asynctools",
           "nixpkgs"
         ],
         "src-asynctools-master": "src-asynctools-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648107274,
-        "narHash": "sha256-xSnzLrmTPiF62imiF7bQEGuUnTO+/NOwb4X5GhaUpmI=",
+        "lastModified": 1648162919,
+        "narHash": "sha256-q1yzF24qf31PBLMoL8uOWrYZb2jTqTipNN8OH2f73/8=",
         "owner": "nim-nix-pkgs",
         "repo": "asynctools",
-        "rev": "8636de79d1c2f1e16fcf46c5cc9332e326d22980",
+        "rev": "4589ac7cfa2413b887a764762589806082ba6cea",
         "type": "github"
       },
       "original": {
@@ -98,11 +67,11 @@
       },
       "locked": {
         "dir": "v0_4_0",
-        "lastModified": 1648110202,
-        "narHash": "sha256-x01AXAbLzrTx0af5rohVPG427abXok27tIgkHbantrM=",
+        "lastModified": 1648164311,
+        "narHash": "sha256-WlGyr21+M4+nwuyyzlAKudSL8XUx5Zfdo9xkO7d32pQ=",
         "owner": "nim-nix-pkgs",
         "repo": "httpbeast",
-        "rev": "4886cb522b75b1e9343ad41de04427702b39cbfd",
+        "rev": "478ee1635c3fa5c9a5fae1596e56e07505926945",
         "type": "github"
       },
       "original": {
@@ -126,11 +95,11 @@
       },
       "locked": {
         "dir": "v0_5_2",
-        "lastModified": 1648110665,
-        "narHash": "sha256-r0vz+e7DE+JwjI3KibsOXmmyDWfZ2H7qjIzCBBVYLCY=",
+        "lastModified": 1648164688,
+        "narHash": "sha256-Yr1dxETJzmFUgsULYdpeaGhRs6xGQWGJDkO+PaFd8gE=",
         "owner": "nim-nix-pkgs",
         "repo": "jesterwithplugins",
-        "rev": "7647c37b6d4bc2e012609bc84873d97b2875117e",
+        "rev": "780ae0a0bf757c113b5ca413c5b173bed238bfb7",
         "type": "github"
       },
       "original": {
