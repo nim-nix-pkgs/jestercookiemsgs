@@ -11,7 +11,6 @@
   inputs.src-jestercookiemsgs-v1_0_1.ref   = "refs/tags/v1.0.1";
   inputs.src-jestercookiemsgs-v1_0_1.owner = "JohnAD";
   inputs.src-jestercookiemsgs-v1_0_1.repo  = "jestercookiemsgs";
-  inputs.src-jestercookiemsgs-v1_0_1.dir   = "";
   inputs.src-jestercookiemsgs-v1_0_1.type  = "github";
   
   inputs."jesterwithplugins".owner = "nim-nix-pkgs";

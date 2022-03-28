@@ -11,7 +11,6 @@
   inputs.src-jestercookiemsgs-master.ref   = "refs/heads/master";
   inputs.src-jestercookiemsgs-master.owner = "JohnAD";
   inputs.src-jestercookiemsgs-master.repo  = "jestercookiemsgs";
-  inputs.src-jestercookiemsgs-master.dir   = "";
   inputs.src-jestercookiemsgs-master.type  = "github";
   
   inputs."jesterwithplugins".owner = "nim-nix-pkgs";
