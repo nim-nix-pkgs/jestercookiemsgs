@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "v0_5_2",
-        "lastModified": 1656302087,
-        "narHash": "sha256-+bJnFw7pnJyh2rORYj1g6fnRd9SxGS1BPtPIE11uOdU=",
+        "lastModified": 1656747787,
+        "narHash": "sha256-JhPQ8r3DA1y6EGMYQAnJbxBAYQeGwaHoZ8x4YEeLhWM=",
         "owner": "nim-nix-pkgs",
         "repo": "jesterwithplugins",
-        "rev": "4d13b0f2031faf6dae2a2a78c28c9ea8394c3a3a",
+        "rev": "1c18faddc9b7ff846524d9443e2a50cccc28beaa",
         "type": "github"
       },
       "original": {
