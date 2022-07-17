@@ -195,11 +195,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657154159,
-        "narHash": "sha256-GOoUf4ua4f6XFC+CiGHx+vJ5Sa0JognqLhN1gtgySvg=",
+        "lastModified": 1658019238,
+        "narHash": "sha256-qSVYCEZUJ58oDYiRIJcmp99F9QsnJRYeTVPiCaZO2v4=",
         "owner": "nim-nix-pkgs",
         "repo": "jestercookiemsgs",
-        "rev": "194ed88b6b9530e2ba7ee56bada9c88cdc8f5900",
+        "rev": "dec061dc9d8e1f2e2e30fced36d55d7e0b254297",
         "type": "github"
       },
       "original": {
@@ -223,11 +223,11 @@
       },
       "locked": {
         "dir": "v1_0_1",
-        "lastModified": 1657154159,
-        "narHash": "sha256-GOoUf4ua4f6XFC+CiGHx+vJ5Sa0JognqLhN1gtgySvg=",
+        "lastModified": 1658019238,
+        "narHash": "sha256-qSVYCEZUJ58oDYiRIJcmp99F9QsnJRYeTVPiCaZO2v4=",
         "owner": "nim-nix-pkgs",
         "repo": "jestercookiemsgs",
-        "rev": "194ed88b6b9530e2ba7ee56bada9c88cdc8f5900",
+        "rev": "dec061dc9d8e1f2e2e30fced36d55d7e0b254297",
         "type": "github"
       },
       "original": {
